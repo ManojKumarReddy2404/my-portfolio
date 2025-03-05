@@ -10,3 +10,20 @@ header {
     color: white;
     padding: 20px;
 }
+
+section {
+    margin: 40px auto;
+    padding: 20px;
+    max-width: 600px;
+    background: #f4f4f4;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #333;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
